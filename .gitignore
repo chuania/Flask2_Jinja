@@ -3,3 +3,6 @@
 .vscode/
 *.pyc
 __pycache__
+*.code-workspace
+*.db
+.DS_Store
