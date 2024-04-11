@@ -6,8 +6,7 @@
 2. Создаем и активируем pipenv: `pipenv shell`
 Имя окружения = имя директории
 3. Устанавливаем пакеты из Pipfile: `pipenv install`
-4. Запускаем проект: `pipenv run python script-name.py`
-где script-name имя файла проекта
+4. Запускаем проект: `pipenv run python app.py`
 
 ## Дополнительный команды 
 
